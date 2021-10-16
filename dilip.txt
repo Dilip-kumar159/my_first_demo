@@ -3,4 +3,5 @@ and i'm going to change the sentences.
 added status. i added in modified
 this file is also in the .gitignore
 actually this is not in the git 
+and im a superstar
  
