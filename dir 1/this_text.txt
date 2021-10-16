@@ -1,3 +1,4 @@
 my name is this text in the folder dir 1.
 and I'm ignored because i'm in dir 1 .
 this is a man.
+and i updated the this_text also..
